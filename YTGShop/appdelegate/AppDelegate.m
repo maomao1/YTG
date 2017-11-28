@@ -16,8 +16,15 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    [self maryShowHomePage];
+    
     return YES;
+}
+//————展示主界面
+-(void)maryShowHomePage{
+    self.maryBaseTabbar=[[BaseTabBarViewController alloc]init];
+    self.window.rootViewController=self.maryBaseTabbar;
+    [self.window makeKeyAndVisible];
 }
 
 

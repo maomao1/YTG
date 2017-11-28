@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  BaseTabBarViewController.h
 //  YTGShop
 //
 //  Created by maomao on 2017/11/27.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface BaseTabBarViewController : UITabBarController
 
 @end
-

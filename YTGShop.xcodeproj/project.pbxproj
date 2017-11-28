@@ -15,6 +15,25 @@
 		2EB9BE161FCBA1A600B5C93F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB9BE151FCBA1A600B5C93F /* main.m */; };
 		2EB9BE201FCBA1A600B5C93F /* YTGShopTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB9BE1F1FCBA1A600B5C93F /* YTGShopTests.m */; };
 		2EB9BE2B1FCBA1A600B5C93F /* YTGShopUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB9BE2A1FCBA1A600B5C93F /* YTGShopUITests.m */; };
+		2EB9BE421FCBA49A00B5C93F /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB9BE411FCBA49A00B5C93F /* BaseViewController.m */; };
+		2EB9BE451FCBA5B900B5C93F /* BaseTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB9BE441FCBA5B900B5C93F /* BaseTabBarViewController.m */; };
+		2EB9BE481FCBA62100B5C93F /* BaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB9BE471FCBA62100B5C93F /* BaseNavigationController.m */; };
+		2ECCEEF21FCD64EA000F3F95 /* YTGHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEEF11FCD64EA000F3F95 /* YTGHomeViewController.m */; };
+		2ECCEEF31FCD64EA000F3F95 /* YTGHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEEF11FCD64EA000F3F95 /* YTGHomeViewController.m */; };
+		2ECCEEF41FCD64EA000F3F95 /* YTGHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEEF11FCD64EA000F3F95 /* YTGHomeViewController.m */; };
+		2ECCEEF71FCD64FE000F3F95 /* YTGMineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEEF61FCD64FE000F3F95 /* YTGMineViewController.m */; };
+		2ECCEEF81FCD64FE000F3F95 /* YTGMineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEEF61FCD64FE000F3F95 /* YTGMineViewController.m */; };
+		2ECCEEF91FCD64FE000F3F95 /* YTGMineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEEF61FCD64FE000F3F95 /* YTGMineViewController.m */; };
+		2ECCEEFC1FCD650D000F3F95 /* YTGRolloutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEEFB1FCD650D000F3F95 /* YTGRolloutViewController.m */; };
+		2ECCEEFD1FCD650D000F3F95 /* YTGRolloutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEEFB1FCD650D000F3F95 /* YTGRolloutViewController.m */; };
+		2ECCEEFE1FCD650D000F3F95 /* YTGRolloutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEEFB1FCD650D000F3F95 /* YTGRolloutViewController.m */; };
+		2ECCEF021FCD6759000F3F95 /* YTGBasicEncode.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEF011FCD6759000F3F95 /* YTGBasicEncode.m */; };
+		2ECCEF031FCD6759000F3F95 /* YTGBasicEncode.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEF011FCD6759000F3F95 /* YTGBasicEncode.m */; };
+		2ECCEF041FCD6759000F3F95 /* YTGBasicEncode.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEF011FCD6759000F3F95 /* YTGBasicEncode.m */; };
+		2ECCEF071FCD6779000F3F95 /* YTGBasicModels.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEF061FCD6779000F3F95 /* YTGBasicModels.m */; };
+		2ECCEF081FCD6779000F3F95 /* YTGBasicModels.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEF061FCD6779000F3F95 /* YTGBasicModels.m */; };
+		2ECCEF091FCD6779000F3F95 /* YTGBasicModels.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ECCEF061FCD6779000F3F95 /* YTGBasicModels.m */; };
+		316E22D4FFEDC939460830F3 /* libPods-YTGShop.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A64D00F70AE652D78D823E1 /* libPods-YTGShop.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +70,25 @@
 		2EB9BE261FCBA1A600B5C93F /* YTGShopUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YTGShopUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EB9BE2A1FCBA1A600B5C93F /* YTGShopUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YTGShopUITests.m; sourceTree = "<group>"; };
 		2EB9BE2C1FCBA1A600B5C93F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EB9BE401FCBA49A00B5C93F /* BaseViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		2EB9BE411FCBA49A00B5C93F /* BaseViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
+		2EB9BE431FCBA5B900B5C93F /* BaseTabBarViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseTabBarViewController.h; sourceTree = "<group>"; };
+		2EB9BE441FCBA5B900B5C93F /* BaseTabBarViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseTabBarViewController.m; sourceTree = "<group>"; };
+		2EB9BE461FCBA62100B5C93F /* BaseNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseNavigationController.h; sourceTree = "<group>"; };
+		2EB9BE471FCBA62100B5C93F /* BaseNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseNavigationController.m; sourceTree = "<group>"; };
+		2ECCEEF01FCD64EA000F3F95 /* YTGHomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YTGHomeViewController.h; sourceTree = "<group>"; };
+		2ECCEEF11FCD64EA000F3F95 /* YTGHomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YTGHomeViewController.m; sourceTree = "<group>"; };
+		2ECCEEF51FCD64FE000F3F95 /* YTGMineViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YTGMineViewController.h; sourceTree = "<group>"; };
+		2ECCEEF61FCD64FE000F3F95 /* YTGMineViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YTGMineViewController.m; sourceTree = "<group>"; };
+		2ECCEEFA1FCD650D000F3F95 /* YTGRolloutViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YTGRolloutViewController.h; sourceTree = "<group>"; };
+		2ECCEEFB1FCD650D000F3F95 /* YTGRolloutViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YTGRolloutViewController.m; sourceTree = "<group>"; };
+		2ECCEF001FCD6759000F3F95 /* YTGBasicEncode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YTGBasicEncode.h; sourceTree = "<group>"; };
+		2ECCEF011FCD6759000F3F95 /* YTGBasicEncode.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YTGBasicEncode.m; sourceTree = "<group>"; };
+		2ECCEF051FCD6779000F3F95 /* YTGBasicModels.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YTGBasicModels.h; sourceTree = "<group>"; };
+		2ECCEF061FCD6779000F3F95 /* YTGBasicModels.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YTGBasicModels.m; sourceTree = "<group>"; };
+		3A64D00F70AE652D78D823E1 /* libPods-YTGShop.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YTGShop.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EE0E96959D0586C0369AB1D /* Pods-YTGShop.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YTGShop.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YTGShop/Pods-YTGShop.debug.xcconfig"; sourceTree = "<group>"; };
+		ABC55B0D881CCE9BBD9CAEF1 /* Pods-YTGShop.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YTGShop.release.xcconfig"; path = "Pods/Target Support Files/Pods-YTGShop/Pods-YTGShop.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +96,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				316E22D4FFEDC939460830F3 /* libPods-YTGShop.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +117,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2981740F6DF52BAB1DD26310 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5EE0E96959D0586C0369AB1D /* Pods-YTGShop.debug.xcconfig */,
+				ABC55B0D881CCE9BBD9CAEF1 /* Pods-YTGShop.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		2EB9BDFA1FCBA1A600B5C93F = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +133,8 @@
 				2EB9BE1E1FCBA1A600B5C93F /* YTGShopTests */,
 				2EB9BE291FCBA1A600B5C93F /* YTGShopUITests */,
 				2EB9BE041FCBA1A600B5C93F /* Products */,
+				2981740F6DF52BAB1DD26310 /* Pods */,
+				DC5744C5F4A9937143F52258 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,10 +151,13 @@
 		2EB9BE051FCBA1A600B5C93F /* YTGShop */ = {
 			isa = PBXGroup;
 			children = (
-				2EB9BE061FCBA1A600B5C93F /* AppDelegate.h */,
-				2EB9BE071FCBA1A600B5C93F /* AppDelegate.m */,
-				2EB9BE091FCBA1A600B5C93F /* ViewController.h */,
-				2EB9BE0A1FCBA1A600B5C93F /* ViewController.m */,
+				2EB9BE3F1FCBA47E00B5C93F /* Basic */,
+				2EB9BE3E1FCBA30A00B5C93F /* models */,
+				2EB9BE3D1FCBA30200B5C93F /* views */,
+				2EB9BE3C1FCBA2EF00B5C93F /* controllers */,
+				2EB9BE3B1FCBA2C900B5C93F /* appdelegate */,
+				2EB9BE3A1FCBA29F00B5C93F /* components */,
+				2EB9BE381FCBA25100B5C93F /* untils */,
 				2EB9BE0C1FCBA1A600B5C93F /* Main.storyboard */,
 				2EB9BE0F1FCBA1A600B5C93F /* Assets.xcassets */,
 				2EB9BE111FCBA1A600B5C93F /* LaunchScreen.storyboard */,
@@ -132,6 +185,115 @@
 			path = YTGShopUITests;
 			sourceTree = "<group>";
 		};
+		2EB9BE381FCBA25100B5C93F /* untils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = untils;
+			sourceTree = "<group>";
+		};
+		2EB9BE3A1FCBA29F00B5C93F /* components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = components;
+			sourceTree = "<group>";
+		};
+		2EB9BE3B1FCBA2C900B5C93F /* appdelegate */ = {
+			isa = PBXGroup;
+			children = (
+				2EB9BE091FCBA1A600B5C93F /* ViewController.h */,
+				2EB9BE0A1FCBA1A600B5C93F /* ViewController.m */,
+				2EB9BE061FCBA1A600B5C93F /* AppDelegate.h */,
+				2EB9BE071FCBA1A600B5C93F /* AppDelegate.m */,
+			);
+			path = appdelegate;
+			sourceTree = "<group>";
+		};
+		2EB9BE3C1FCBA2EF00B5C93F /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2ECCEEEE1FCD61B6000F3F95 /* YTGHome */,
+				2ECCEEED1FCD61B6000F3F95 /* YTGMine */,
+				2ECCEEEF1FCD61B6000F3F95 /* YTGRollout */,
+			);
+			path = controllers;
+			sourceTree = "<group>";
+		};
+		2EB9BE3D1FCBA30200B5C93F /* views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		2EB9BE3E1FCBA30A00B5C93F /* models */ = {
+			isa = PBXGroup;
+			children = (
+				2ECCEEFF1FCD6732000F3F95 /* BasicModels */,
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		2EB9BE3F1FCBA47E00B5C93F /* Basic */ = {
+			isa = PBXGroup;
+			children = (
+				2EB9BE401FCBA49A00B5C93F /* BaseViewController.h */,
+				2EB9BE411FCBA49A00B5C93F /* BaseViewController.m */,
+				2EB9BE431FCBA5B900B5C93F /* BaseTabBarViewController.h */,
+				2EB9BE441FCBA5B900B5C93F /* BaseTabBarViewController.m */,
+				2EB9BE461FCBA62100B5C93F /* BaseNavigationController.h */,
+				2EB9BE471FCBA62100B5C93F /* BaseNavigationController.m */,
+			);
+			path = Basic;
+			sourceTree = "<group>";
+		};
+		2ECCEEED1FCD61B6000F3F95 /* YTGMine */ = {
+			isa = PBXGroup;
+			children = (
+				2ECCEEF51FCD64FE000F3F95 /* YTGMineViewController.h */,
+				2ECCEEF61FCD64FE000F3F95 /* YTGMineViewController.m */,
+			);
+			path = YTGMine;
+			sourceTree = "<group>";
+		};
+		2ECCEEEE1FCD61B6000F3F95 /* YTGHome */ = {
+			isa = PBXGroup;
+			children = (
+				2ECCEEF01FCD64EA000F3F95 /* YTGHomeViewController.h */,
+				2ECCEEF11FCD64EA000F3F95 /* YTGHomeViewController.m */,
+			);
+			path = YTGHome;
+			sourceTree = "<group>";
+		};
+		2ECCEEEF1FCD61B6000F3F95 /* YTGRollout */ = {
+			isa = PBXGroup;
+			children = (
+				2ECCEEFA1FCD650D000F3F95 /* YTGRolloutViewController.h */,
+				2ECCEEFB1FCD650D000F3F95 /* YTGRolloutViewController.m */,
+			);
+			path = YTGRollout;
+			sourceTree = "<group>";
+		};
+		2ECCEEFF1FCD6732000F3F95 /* BasicModels */ = {
+			isa = PBXGroup;
+			children = (
+				2ECCEF001FCD6759000F3F95 /* YTGBasicEncode.h */,
+				2ECCEF011FCD6759000F3F95 /* YTGBasicEncode.m */,
+				2ECCEF051FCD6779000F3F95 /* YTGBasicModels.h */,
+				2ECCEF061FCD6779000F3F95 /* YTGBasicModels.m */,
+			);
+			path = BasicModels;
+			sourceTree = "<group>";
+		};
+		DC5744C5F4A9937143F52258 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3A64D00F70AE652D78D823E1 /* libPods-YTGShop.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,9 +301,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2EB9BE2F1FCBA1A600B5C93F /* Build configuration list for PBXNativeTarget "YTGShop" */;
 			buildPhases = (
+				7651F727ED841E7CEE5383A9 /* [CP] Check Pods Manifest.lock */,
 				2EB9BDFF1FCBA1A600B5C93F /* Sources */,
 				2EB9BE001FCBA1A600B5C93F /* Frameworks */,
 				2EB9BE011FCBA1A600B5C93F /* Resources */,
+				62D7D9BB642BCAF5F98FF3ED /* [CP] Embed Pods Frameworks */,
+				ECF2BD48DA8ADECCD566F23C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -260,13 +425,75 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		62D7D9BB642BCAF5F98FF3ED /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YTGShop/Pods-YTGShop-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7651F727ED841E7CEE5383A9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-YTGShop-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ECF2BD48DA8ADECCD566F23C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-YTGShop/Pods-YTGShop-resources.sh",
+				"${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YTGShop/Pods-YTGShop-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2EB9BDFF1FCBA1A600B5C93F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2ECCEEF21FCD64EA000F3F95 /* YTGHomeViewController.m in Sources */,
 				2EB9BE0B1FCBA1A600B5C93F /* ViewController.m in Sources */,
+				2ECCEEFC1FCD650D000F3F95 /* YTGRolloutViewController.m in Sources */,
+				2EB9BE421FCBA49A00B5C93F /* BaseViewController.m in Sources */,
+				2EB9BE481FCBA62100B5C93F /* BaseNavigationController.m in Sources */,
+				2ECCEF021FCD6759000F3F95 /* YTGBasicEncode.m in Sources */,
+				2EB9BE451FCBA5B900B5C93F /* BaseTabBarViewController.m in Sources */,
 				2EB9BE161FCBA1A600B5C93F /* main.m in Sources */,
+				2ECCEF071FCD6779000F3F95 /* YTGBasicModels.m in Sources */,
+				2ECCEEF71FCD64FE000F3F95 /* YTGMineViewController.m in Sources */,
 				2EB9BE081FCBA1A600B5C93F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,6 +502,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2ECCEF031FCD6759000F3F95 /* YTGBasicEncode.m in Sources */,
+				2ECCEF081FCD6779000F3F95 /* YTGBasicModels.m in Sources */,
+				2ECCEEF31FCD64EA000F3F95 /* YTGHomeViewController.m in Sources */,
+				2ECCEEFD1FCD650D000F3F95 /* YTGRolloutViewController.m in Sources */,
+				2ECCEEF81FCD64FE000F3F95 /* YTGMineViewController.m in Sources */,
 				2EB9BE201FCBA1A600B5C93F /* YTGShopTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,6 +515,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2ECCEF041FCD6759000F3F95 /* YTGBasicEncode.m in Sources */,
+				2ECCEF091FCD6779000F3F95 /* YTGBasicModels.m in Sources */,
+				2ECCEEF41FCD64EA000F3F95 /* YTGHomeViewController.m in Sources */,
+				2ECCEEFE1FCD650D000F3F95 /* YTGRolloutViewController.m in Sources */,
+				2ECCEEF91FCD64FE000F3F95 /* YTGMineViewController.m in Sources */,
 				2EB9BE2B1FCBA1A600B5C93F /* YTGShopUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -428,6 +665,7 @@
 		};
 		2EB9BE301FCBA1A600B5C93F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5EE0E96959D0586C0369AB1D /* Pods-YTGShop.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -441,6 +679,7 @@
 		};
 		2EB9BE311FCBA1A600B5C93F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = ABC55B0D881CCE9BBD9CAEF1 /* Pods-YTGShop.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
